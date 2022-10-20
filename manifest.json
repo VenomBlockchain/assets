@@ -92,17 +92,6 @@
       "vendor": "venom"
     },
     {
-      "name": "BRIDGE",
-      "chainId": 1000,
-      "symbol": "BRIDGE",
-      "decimals": 9,
-      "address": "0:3b628cd04275187ee5a1ded2a3dcefa475fd319589e5f47bfca3d74a11d687db",
-      "logoURI": "https://raw.githubusercontent.com/BVFDT/venom-assets/master/icons/BRIDGE/logo.svg",
-      "version": 5,
-      "verified": true,
-      "vendor": "venom"
-    },
-    {
       "name": "Web3.World DEX",
       "chainId": 1000,
       "symbol": "W3W",
