@@ -32,11 +32,20 @@
       "verified": false
     },
     {
-      "name": "Qwe",
+      "name": "Tst",
       "chainId": 1002,
-      "symbol": "QWE",
+      "symbol": "TST",
       "decimals": 18,
-      "address": "0:abeeed005cb747fd6f2343d1764abcb634b634f7597f8747ae29a4e2c5e1e2e0",
+      "address": "0:3752345490d018450c299e4708f2ebd565e025b7b61c48274b626174e14eba0c",
+      "version": 5,
+      "verified": false
+    },
+    {
+      "name": "2USD",
+      "chainId": 1002,
+      "symbol": "2USD",
+      "decimals": 9,
+      "address": "0:98321413e7e8ff1104c7129dc8ab45f92c6b6387d7e2cf498901d106f86a349d",
       "version": 5,
       "verified": false
     },
