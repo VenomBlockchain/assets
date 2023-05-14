@@ -14,29 +14,11 @@
   "timestamp": "2023-05-08T00:00:00.000Z",
   "tokens": [
     {
-      "name": "Foo",
+      "name": "WVENOM",
       "chainId": 1002,
-      "symbol": "FOO",
-      "decimals": 18,
-      "address": "0:8a7a6e3d7a7b6dfcce8d9d409f0f14cea604d8550d3570125701f97d318dc00c",
-      "version": 5,
-      "verified": false
-    },
-    {
-      "name": "Bar",
-      "chainId": 1002,
-      "symbol": "BAR",
-      "decimals": 18,
-      "address": "0:933fbe9274ba9a245d867cc8c04194fcdc973742eeb7c7fbf89592d3e28bffbe",
-      "version": 5,
-      "verified": false
-    },
-    {
-      "name": "Tst",
-      "chainId": 1002,
-      "symbol": "TST",
-      "decimals": 18,
-      "address": "0:3752345490d018450c299e4708f2ebd565e025b7b61c48274b626174e14eba0c",
+      "symbol": "WVENOM",
+      "decimals": 9,
+      "address": "0:6bf25d251adabf1268a8870ad1b45d46fcf782ef9f1bfa7c16032484d3e54ac7",
       "version": 5,
       "verified": false
     },
@@ -45,16 +27,43 @@
       "chainId": 1002,
       "symbol": "2USD",
       "decimals": 9,
-      "address": "0:98321413e7e8ff1104c7129dc8ab45f92c6b6387d7e2cf498901d106f86a349d",
+      "address": "0:15eb0863e2330a6657ed7d6f11e029cb56e67e11df4243c6aeec032d07ee7cb9",
       "version": 5,
       "verified": false
     },
     {
-      "name": "WVENOM",
+      "name": "FOO",
       "chainId": 1002,
-      "symbol": "WVENOM",
+      "symbol": "FOO",
+      "decimals": 6,
+      "address": "0:17687d040efec691dca0dce049d5e1cf7fef5b721d5dd8b3c8d9dcc1c26cce89",
+      "version": 5,
+      "verified": false
+    },
+    {
+      "name": "BAR",
+      "chainId": 1002,
+      "symbol": "BAR",
+      "decimals": 6,
+      "address": "0:8336f1de35122ca69fac2a2dd3addf1ab083a1066d7b03608be6b8934477f42e",
+      "version": 5,
+      "verified": false
+    },
+    {
+      "name": "TST",
+      "chainId": 1002,
+      "symbol": "TST",
       "decimals": 9,
-      "address": "0:6bf25d251adabf1268a8870ad1b45d46fcf782ef9f1bfa7c16032484d3e54ac7",
+      "address": "0:0c4cb5aed5e08961a241904bec07f68c67811f1f7f31d43bd5f632208ccdc015",
+      "version": 5,
+      "verified": false
+    },
+    {
+      "name": "QWE",
+      "chainId": 1002,
+      "symbol": "QWE",
+      "decimals": 18,
+      "address": "0:50b94f68f30ff561717fc3d7a87e8800b7a5fd55d33c456bac4a39be26c836c5",
       "version": 5,
       "verified": false
     }
